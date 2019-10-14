@@ -2,5 +2,5 @@ make build
 
 make run
 
-docker pull jimmyislive/goubuntu:1.0.1
+docker pull jimmyislive/goubuntu:1.0.2
 
